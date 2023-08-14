@@ -1,2 +1,4 @@
 Django>=3.2,<3.3
-# Add other project dependencies below
+djangorestframework>=3.12,<3.13
+django-crispy-forms>=1.11,<1.12
+psycopg2-binary>=2.9,<2.10
